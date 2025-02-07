@@ -37,5 +37,13 @@ elif (Total_marks) >= 50 and (Total_marks)< 60: print("Grade C\n")
 elif (Total_marks) >= 60 and (Total_marks)< 70: print("Grade B\n")
 else: print("Grade A")'''
 
-Username = input ("Enter your username/n")
-print("your username: " + Username)
+#Username = input ("Enter your username/n")
+#print("your username: " + Username)
+
+#for loop in python
+
+
+#for i in range(20, 50):
+    print(i)
+
+
